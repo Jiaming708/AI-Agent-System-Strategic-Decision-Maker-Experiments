@@ -33,12 +33,23 @@ We quantitatively evaluated the system's decision convergence and optimization p
 
 <img width="1600" height="960" alt="image" src="https://github.com/user-attachments/assets/9c053556-b119-4409-a6a9-2062d63944a9" />
 
-
 **Analysis**:
 * The experiment compared three traditional manual strategies (Aggressive, Balanced, Conservative) with the **MAS (Multi-Agent System) Optimized** strategy.
 * While the Aggressive strategy offers high expected ROI (0.45), it carries uncontrollable market risk (0.65). The Conservative strategy has minimal risk (0.10) but lacks competitiveness (ROI of 0.15).
 * Through dynamic resource allocation and extensive agent negotiation, the **Agent-Optimized (MAS)** strategy maintains a low risk index (0.25) while achieving a high return (0.42) comparable to the aggressive approach. This validates the system's outstanding ability to find "Pareto Optimal" solutions in complex decision-making.
 
+### 3. Performance Benchmark Comparison
+
+To further validate the system, a comprehensive benchmark comparison was conducted among the **MAS-SDM framework**, a **Single AI Agent**, a **Standalone Large Language Model (LLM)**, and **Human Experts**.
+
+<img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/ed4b7fbe-5d2a-46d2-96ba-d2a57db22698" />
+
+| Evaluation Entity | Strategic Depth | Risk Mitigation | Resource Efficiency | Overall Effectiveness |
+| :--- | :---: | :---: | :---: | :---: |
+| Human Experts | High | Medium | Low | 78% |
+| Standalone LLM | Medium | Low | High | 65% |
+| Single AI Agent | Medium | Medium | Medium | 72% |
+| **MAS-SDM (Ours)** | **High** | **High** | **High** | **94%** |
 ---
 
 ## 🚀 Conclusion
