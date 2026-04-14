@@ -7,11 +7,12 @@
 This project implements a **6-Agent Collaborative System** specifically designed for high-level enterprise strategic decision-making. Based on common strategic needs, the system was tested and validated within the specific high-value scenario of a **New Product Launch Strategy**.
 
 The system comprises five heterogeneous AI agents:
-1. 🔍 **Strategic Analyst**: Responsible for macro-environmental awareness, utilizing RAG to extract market insights.
-2. 📈 **Scenario Simulator**: Executes multi-scenario modeling and game theory simulations to predict market feedback.
-3. 🛡️ **Risk Auditor**: Acts as a critic for logical vulnerabilities and compliance, conducting stress tests on the strategy.
-4. 💰 **Resource Manager**: Maximizes ROI within budget and operational constraints.
-5. 🧠 **Decision Controller**: Orchestrates global tasks, verifies consistency protocols, and synthesizes the final strategic blueprint.
+1. 🔍 **Strategic Analyst**: Handles macro-environmental perception and Retrieval-Augmented Generation (RAG) for market data.
+2. 📈 **Scenario Simulator**: Executes multi-scenario modeling and game theory simulations to predict strategic outcomes.
+3. 🛡️ **Risk Auditor**: Acts as the critic for logical vulnerability, compliance auditing, and adversarial stress testing.
+4. 💰 **Resource Manager**: Optimizes Return on Investment (ROI) and resource allocation under given operational constraints.
+5. ⚙️ **Implementation Overseer**: Translates high-level strategies into actionable roadmaps and monitors execution feasibility.
+6. 🧠 **Decision Controller**: Orchestrates global tasks, verifies consistency protocols, and synthesizes the final strategic blueprint.
 
 ---
 
