@@ -47,10 +47,10 @@ To further validate the system, a comprehensive benchmark comparison was conduct
 
 | Evaluation Entity | Strategic Depth | Risk Mitigation | Resource Efficiency | Overall Effectiveness |
 | :--- | :---: | :---: | :---: | :---: |
-| Human Experts | High | Medium | Low | 78% |
-| Standalone LLM | Medium | Low | High | 65% |
-| Single AI Agent | Medium | Medium | Medium | 72% |
-| **MAS-SDM (Ours)** | **High** | **High** | **High** | **94%** |
+| Human Experts | High | Medium | Low | 78.01% |
+| Standalone LLM | Medium | Low | High | 65.05% |
+| Single AI Agent | Medium | Medium | Medium | 71.34% |
+| **MAS-SDM (Ours)** | **High** | **High** | **High** | **94.12%** |
 ---
 
 ## 🚀 Conclusion
